@@ -22,6 +22,8 @@ A compact learning system investigating how skills can be acquired through exper
 
 [Explore Tiny Learner](https://github.com/mira-takeda/tiny-learner)
 
+[Explore its possible future applications](https://mira-takeda.github.io/tiny-learner/) <sub>(Pages activation pending)</sub>
+
 ---
 
 ## Independent experiments
