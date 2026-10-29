@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-label="Satoru Takeda, independent research in adaptive systems">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#10161a"/><stop offset="1" stop-color="#1a2329"/></linearGradient>
+  <linearGradient id="thread" x1="0" x2="1"><stop stop-color="#6e8998" stop-opacity=".16"/><stop offset=".5" stop-color="#b0c0c1" stop-opacity=".66"/><stop offset="1" stop-color="#526e7e" stop-opacity=".23"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#6f858d" stroke-opacity=".09" fill="none" stroke-width=".8"/></pattern>
+</defs>
+<rect width="1440" height="440" fill="url(#bg)"/>
+<rect width="1440" height="440" fill="url(#grid)"/>
+<path d="M64 56H1376M64 389H1376" stroke="#c9d0cb" stroke-opacity=".27" stroke-width="1"/>
+<text x="70" y="40" fill="#99adb3" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="4">FIELD NOTES / INDEPENDENT RESEARCH</text>
+<text x="70" y="191" fill="#ebece7" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="92" letter-spacing="-5">SATORU</text>
+<text x="70" y="289" fill="#ebece7" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="92" letter-spacing="-5">TAKEDA.</text>
+<rect x="71" y="314" width="67" height="3" fill="#9baeb6"/>
+<text x="70" y="359" fill="#adbdc0" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="2">LEARNING  /  MEMORY  /  ADAPTATION</text>
+<g fill="none" stroke-width="1.6" stroke="url(#thread)">
+<path d="M708 277 C785 290 798 141 873 160 S973 234 1028 166 S1154 86 1253 105"/>
+<path d="M730 310 C820 315 826 255 901 262 S1001 326 1075 269 S1220 228 1348 240"/>
+<path d="M753 106 C833 116 847 192 921 184 S1030 88 1112 126 S1284 152 1366 88"/>
+<path d="M847 345 C897 300 925 340 985 303 S1121 349 1179 313 S1324 334 1376 282"/>
+<path d="M822 80 C870 140 908 79 958 116 S1103 219 1203 164 S1281 190 1387 174"/>
+</g>
+<g fill="none" stroke="#849ba4" stroke-opacity=".29" stroke-width=".8">
+<path d="M873 160L901 262L921 184L1028 166L1075 269L1112 126"/>
+<path d="M1028 166L1203 164L1179 313L1075 269"/>
+<circle cx="1075" cy="224" r="138"/><circle cx="1075" cy="224" r="170" stroke-dasharray="2 14"/>
+</g>
+<g fill="#a6b9bf">
+<circle cx="873" cy="160" r="4"/><circle cx="901" cy="262" r="4"/><circle cx="921" cy="184" r="4"/><circle cx="1028" cy="166" r="5"/><circle cx="1075" cy="269" r="4"/><circle cx="1112" cy="126" r="4"/><circle cx="1179" cy="313" r="4"/><circle cx="1203" cy="164" r="4"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="2" fill="#8197a0">
+<text x="826" y="148">01</text><text x="991" y="146">02</text><text x="1222" y="152">03</text>
+</g>
+<text x="1284" y="419" fill="#7e949d" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">2026</text>
+</svg>
