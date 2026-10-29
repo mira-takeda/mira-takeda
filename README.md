@@ -1,55 +1,61 @@
 <div align="center">
 
-<sub>INDEPENDENT RESEARCH · ADAPTIVE COMPUTING</sub>
+<sub>INDEPENDENT RESEARCH / ADAPTIVE SYSTEMS</sub>
 
 # Satoru Takeda
 
-**Building small systems that learn from experience.**
+**Small systems. Learning over time.**
 
-Continual learning &nbsp; / &nbsp; Skill retention &nbsp; / &nbsp; Adaptive agents
+Continual learning &nbsp; · &nbsp; Local intelligence &nbsp; · &nbsp; Experimental agents
+
+<sub>RESEARCH NOTES · 2026</sub>
 
 </div>
 
 ---
 
-## Current work
+## Current focus
 
-### 01 &nbsp; Tiny Learner
+<sub>01 / CPU-FIRST LEARNING</sub>
+
+### [Tiny Learner](https://github.com/mira-takeda/tiny-learner)
 
 **Learn. Remember. Adapt.**
 
-A compact, CPU-first learning agent exploring how to acquire new skills, preserve earlier ones, and apply experience to unfamiliar task combinations.
+A compact learning system investigating how skills can be acquired through experience, preserved across further learning, and reused in unfamiliar situations.
 
-<sub>META GLOBAL AI DEVELOPER HACKATHON 2026</sub>
+<sub>DEVELOPED FOR THE META GLOBAL AI DEVELOPER HACKATHON 2026</sub>
+
+[Explore the project and its applications](https://github.com/mira-takeda/tiny-learner#where-it-could-matter)
 
 ---
 
-## Independent research
+## Other research directions
 
-### 02 &nbsp; SEMILLA
+<sub>02 / LEARNING MECHANISMS</sub>
+
+### SEMILLA
 
 **Learning from consequences.**
 
-An experimental line of research into systems that observe the results of their actions, recognize when conditions change, and revise their behavior using experience.
+Experiments in which a system observes the effects of its actions, detects changes, and adjusts its behavior using experience.
 
-### 03 &nbsp; IRIA & XILA
+<sub>03 / SHARED EXPERIENCE</sub>
 
-**Two agents. One shared environment.**
+### IRIA & XILA
 
-A paired-agent experiment exploring learning through interaction and observation, with alternating actor and observer roles.
+**Two agents. One environment.**
+
+A paired-agent experiment examining interaction, observation, and learning through alternating actor and observer roles.
 
 ---
 
-## What connects these projects?
+## The connecting question
 
-Different architectures. Different experiments. A shared direction:
+> **How much can a small system learn, retain, and adapt without starting over?**
 
-> **Can compact systems keep learning as the world around them changes?**
-
-The work focuses on learning mechanisms, memory, adaptation, and what can be demonstrated through controlled experiments.
+Different projects examine different parts of that question. The aim is to develop useful learning mechanisms and test them with controlled experiments.
 
 <div align="center">
-
-<sub>RESEARCH & EXPERIMENTATION · 2026</sub>
-
+<sub>LEARNING / MEMORY / ADAPTATION</sub>
 </div>
